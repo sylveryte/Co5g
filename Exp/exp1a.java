@@ -1,5 +1,4 @@
-//java exp question below
-//exp1
+//Name : Sandeep Sahani , Enrollment no : 1300040402
 //WAP to display output ( using print() and println())
 
 import java.util.*;
