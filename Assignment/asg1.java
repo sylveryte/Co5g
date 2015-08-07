@@ -1,4 +1,4 @@
-//Name : Sandeep Sahani , Enrollment no : 1300040402
+//pascals triangle
 
 
 import java.util.*;
