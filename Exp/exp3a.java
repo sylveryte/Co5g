@@ -1,4 +1,4 @@
-//java exp question below
+//Name : Sandeep Sahani , Enrollment no : 1300040402
 /*Define a class 'Mobile' with data members comapny_name & screen_size
  *Initialize and display value of data members for five mobiles using 
  *array of objects.
